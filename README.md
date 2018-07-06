@@ -14,7 +14,7 @@ donde las capas están separadas de la siguiente manera:
 - Datos
 
 
-En cuanto al almacenamiento de contraseñas solo tiene un cifrador que es md5
+En cuanto al almacenamiento de contraseñas solo tiene un cofificador que es md5
 
 
 
